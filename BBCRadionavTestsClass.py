@@ -2,7 +2,7 @@
 # radionav features tests
 # JM
 # 16/5/18
-# A CHANGE HAS BEEN MADE
+# A CHANGE HAS BEEN MADE...AGAIN!!!
 # v1.0
 ####################################################
 import sys
